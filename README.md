@@ -2,6 +2,9 @@
 
 I'm Dimitri, a student at [42 Prague](https://www.42prague.com/).
 
+## This is my current status at school
+[![daraz's 42 stats](https://badge.mediaplus.ma/greenbinary/daraz?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ---
 
 ## This is my journey as a student at 42Prague
@@ -25,9 +28,9 @@ I'm Dimitri, a student at [42 Prague](https://www.42prague.com/).
 ![Static Badge](https://img.shields.io/badge/shell-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=F5942C)
 ![Static Badge](https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github)
-![Static Badge](https://img.shields.io/badge/vscode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=3893F5)
-![Static Badge](https://img.shields.io/badge/markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=F5942C)
 ![Static Badge](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/vscode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=3893F5)
+![Static Badge](https://img.shields.io/badge/markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
