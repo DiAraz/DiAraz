@@ -21,4 +21,10 @@ I'm Dimitri, a student at [42 Prague](https://www.42prague.com/).
 
 ## These are tools I am able to work with
 
+![Static Badge](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/shell-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=F5942C)
+![Static Badge](https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github)
+
+
 ---
