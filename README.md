@@ -4,7 +4,8 @@ I'm Dimitri, a student at [42 Prague](https://www.42prague.com/).
 
 ---
 
-### 42 School Projects
+## This is my journey as a student at 42Prague
+### [42 School Projects](https://github.com/DiAraz/42_school_projects)
 <div align="center">
 
 <a href="https://github.com/DiAraz/42_school_projects/tree/main/libft">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/libfte.png)</a>
@@ -15,5 +16,9 @@ I'm Dimitri, a student at [42 Prague](https://www.42prague.com/).
 <a href="https://github.com/DiAraz/42_school_projects/tree/main/pipex">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/pipexe.png)</a>
 <a href="https://github.com/DiAraz/42_school_projects/tree/main/push_swap">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/push_swape.png)</a>
 <a href="https://github.com/DiAraz/42_school_projects/tree/main/philosophers">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/philosopherse.png)</a>
+
+---
+
+## These are tools I am able to work with
 
 ---
