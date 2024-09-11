@@ -42,7 +42,7 @@ I'm Dimitri, a student at [42 Prague](https://www.42prague.com/).
 ![Static Badge](https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/sql-0D1117?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/intellijidea-black?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Static Badge](https://img.shields.io/badge/vscode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=3893F5)
+![Static Badge](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=v&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
 
