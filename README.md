@@ -29,11 +29,16 @@ I'm Dimitri, a student at [42 Prague](https://www.42prague.com/).
 ---
 
 ## These are tools I am able to work with
+![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=C%2B%2B&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/shell-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=F5942C)
 ![Static Badge](https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/sql-0D1117?style=for-the-badge&logo=sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/intellijidea-black?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vscode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=3893F5)
 ![Static Badge](https://img.shields.io/badge/markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
