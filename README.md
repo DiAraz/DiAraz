@@ -23,6 +23,7 @@ I'm Dimitri, a student at [42 Prague](https://www.42prague.com/).
 <a href="https://github.com/DiAraz/42_school_projects/tree/main/cub3d">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/cub3de.png)</a>
 <a href="https://github.com/DiAraz/42_school_projects/tree/main/net_practice">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/netpracticee.png)</a>
 <a href="https://github.com/DiAraz/42_school_projects/tree/main/inception">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/inceptione.png)</a>
+<a href="https://github.com/DiAraz/42_school_projects/tree/main/cpp">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/cppe.png)</a>
 </div>
 
 ---
