@@ -1,9 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=07F700&background=000000&width=435&lines=Hello+World!" alt="Typing SVG" />
 
-I'm Dimitri, a student at [42 Prague](https://www.42prague.com/).
-
-## This is my current status at school
-[![daraz's 42 stats](https://badge.mediaplus.ma/greenbinary/daraz?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+I'm Dimitri, currently working as a Software Engineer. Finished IT School [42 Prague](https://www.42prague.com/).
 
 ---
 
@@ -25,6 +22,7 @@ I'm Dimitri, a student at [42 Prague](https://www.42prague.com/).
 <a href="https://github.com/DiAraz/42_school_projects/tree/main/inception">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/inceptione.png)</a>
 <a href="https://github.com/DiAraz/42_school_projects/tree/main/cpp">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/cppe.png)</a>
 <a href="https://github.com/DiAraz/42_school_projects/tree/main/ft_irc">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/ft_irce.png)</a>
+<a href="https://github.com/DiAraz/42_school_projects/tree/main/ft_transcendence">![42 Badge](https://github.com/DiAraz/DiAraz/blob/main/42_badges/ft_transcendencee.png)</a>
 </div>
 
 ---
